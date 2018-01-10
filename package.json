@@ -26,4 +26,6 @@
     "start": "webpack-dev-server --hot"
   },
   "keywords": [],
-  "au
+  "author": "",
+  "license": "ISC"
+}
